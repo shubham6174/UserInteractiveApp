@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "60149884378",
+    "firebase_url": "https://theinspiringminds2.firebaseio.com",
+    "project_id": "theinspiringminds2",
+    "storage_bucket": "theinspiringminds2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60149884378:android:b1d26a8dc26bc204294ce3",
+        "android_client_info": {
+          "package_name": "xyzz.shubhamsingh.theinspiringminds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60149884378-ep8et7as1rifsnfj288l4slfrlqr7jij.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "xyzz.shubhamsingh.theinspiringminds",
+            "certificate_hash": "e78051e78162f42c610309a6022584a82d99b584"
+          }
+        },
+        {
+          "client_id": "60149884378-o66ofbqnifma1aeib1m12m11ue989ob1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjFaTLQPeQrDP37tosgkSAZlMXRQBeBoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60149884378-o66ofbqnifma1aeib1m12m11ue989ob1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
